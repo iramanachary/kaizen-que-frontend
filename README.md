@@ -8,10 +8,9 @@ A responsive landing page built using React and Tailwind CSS, based on provided 
 
 ## Features
 - Fully responsive (mobile-first)
-- Clean form UI with validation styles
-- Styled checkboxes and call-to-action
+- Styled checkboxes
 - Curved SVG text banner
-- Deployed on Netlify
+- Deployed on Vercel
 
 ## Technologies
 - React.js
