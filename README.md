@@ -21,7 +21,7 @@ A responsive landing page built using React and Tailwind CSS, based on provided 
 ## Run Locally
 
 ```bash
-git clone https://github.com/your-username/mesothelioma-form.git
+git clone https://github.com/iramanachary/kaizen-que-frontend.git
 cd kaizen-que-frontend
 npm install
 npm run dev
