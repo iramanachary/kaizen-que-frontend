@@ -4,7 +4,7 @@
 A responsive landing page built using React and Tailwind CSS, based on provided PDF designs (desktop & mobile).
 
 ## Live Demo
-[🔗 View Website](https://your-site.netlify.app)
+[🔗 View Website](https://kaizen-que-frontend.vercel.app)
 
 ## Features
 - Fully responsive (mobile-first)

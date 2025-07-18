@@ -6,7 +6,7 @@ import Clock from '../../components/Clock';
 
 const Index = () => {
     return (
-        <section className="bg-[url(/assets/bg-image-2.webp)]  bg-cover bg-center px-5 py-10 xl:py-20 xl:px-50">
+        <section className="bg-[url(/assets/bg-image.jpg)]  bg-cover bg-center px-5 py-10 xl:py-20 xl:px-50">
             <Clock/>
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 lg:px-10 max-w-[1440px] mx-auto mt-5 sm:mt-0">
                 <div className="flex sm:flex-row lg:flex-col gap-5 flex-col-reverse ">
@@ -132,7 +132,7 @@ const Index = () => {
                             </div>
                         </div>
                         <div className="flex shrink-0 items-start col-span-2 gap-3 my-5">
-                            <div className="group grid size-4 w-23 h-5 sm:w-10 sm:h-5 lg:w-18 lg:h-5 grid-cols-1 pt-1">
+                            <div className="group grid size-4 w-23 h-5 sm:w-10 sm:h-5 lg:w-17 lg:h-5 grid-cols-1 pt-1">
                                 <input
                                     
                                     type="checkbox"
